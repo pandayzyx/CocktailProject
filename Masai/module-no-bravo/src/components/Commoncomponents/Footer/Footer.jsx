@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Footer(props) {
 	return (
-		<div class="row text-white bg bg-dark p-3 mt-5">
+		<div className="row text-white bg bg-dark p-3 mt-5">
 			<div className="col-2">
 				<img
 					className="img-fluid"
@@ -10,7 +10,7 @@ export default function Footer(props) {
 					alt="img"
 				></img>
 			</div>
-			<div class="col-2 offset-1">
+			<div className="col-2 offset-1">
 				<h3 className="font-weight-bold text-white">SODA MONK</h3>
 				<p>Home</p>
 				<p>About Us</p>
@@ -20,7 +20,7 @@ export default function Footer(props) {
 				<p>Forums</p>
 			</div>
 
-			<div class="col-2">
+			<div className="col-2">
 				<h3 className="font-weight-bold text-white">CITIES</h3>
 				<p>Mumbai</p>
 				<p>New Delhi</p>
@@ -30,7 +30,7 @@ export default function Footer(props) {
 				<p>LuckNow</p>
 			</div>
 
-			<div class="col-2 ">
+			<div className="col-2 ">
 				<h3 className="font-weight-bold text-white">NEAR ME</h3>
 
 				<p>Fine Dining</p>
@@ -41,7 +41,7 @@ export default function Footer(props) {
 				<p>Club</p>
 			</div>
 
-			<div class="col-2 ">
+			<div className="col-2 ">
 				<h3 className="font-weight-bold text-white">PRODUCTS</h3>
 
 				<p>Whisky</p>
@@ -58,14 +58,14 @@ export default function Footer(props) {
 					</div>
 
 					<div className="col-3">
-						<i style={{ fontSize: "30px" }} class="fab fa-twitter"></i>
+						<i style={{ fontSize: "30px" }} className="fab fa-twitter"></i>
 						<i
 							style={{ marginLeft: "10px", fontSize: "30px" }}
-							class="fab fa-instagram"
+							className="fab fa-instagram"
 						></i>
 						<i
 							style={{ marginLeft: "10px", fontSize: "30px" }}
-							class="fab fa-facebook"
+							className="fab fa-facebook"
 						></i>
 					</div>
 				</div>
