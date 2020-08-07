@@ -1,7 +1,7 @@
 This project was created  with  React[Create React App](https://github.com/facebook/create-react-app).
 
 ## Overview of The Project:
-Cocktail project allows user to serach their favourite drinks Alchoholic and non Alcoholic.
+Cocktail App allows user to serach their favourite drinks Alchoholic and non Alcoholic.
 
 <a href =  "https://mocktail-wb.netlify.app/">
   <button style = "background:red,padding:5px">Demo Link</button>
