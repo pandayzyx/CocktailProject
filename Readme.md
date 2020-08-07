@@ -7,10 +7,9 @@ Cocktail project allows user to serach their favourite drinks Alchoholic and non
   <button style = "background:red,padding:5px">Demo Link</button>
 </a>
 
-
-
 <p> <img src  = "/Masai/module-no-bravo/public/home.png"> </p>
 To get started here are some features which a user can get in the app.
+<br>
 
 1.Option to search for drinks based on different categories.
 <p> <img src  = "/Masai/module-no-bravo/public/category.png"> </p>
